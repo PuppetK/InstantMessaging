@@ -1,8 +1,5 @@
 package com.example.administrator.instantmessaging;
 
-/**
- * Created by Administrator on 2015/7/12 0012.
- */
 public class Msg {
 
     public static final int TYPE_RECEIVED = 0;
